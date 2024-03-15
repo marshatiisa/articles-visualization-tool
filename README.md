@@ -1,4 +1,4 @@
-# Articles Visualizer for Wikimedia
+# Articles Visualizer Tool for Wikimedia
 
 This is an open-source contribution to a Wikimedia project that aims to provide visualizations of feature values and quality scores over time for articles maintained by WikiProjects. It enables Wikimedia editors to monitor the evolution of quality in these articles and facilitates future analyses.
 
